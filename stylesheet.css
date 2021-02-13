@@ -3,6 +3,11 @@
   margin-top: 20px;
 }
 
+.header {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
 .btn-wrapper {
   text-align: center;
   margin-right: -25px;
