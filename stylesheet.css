@@ -8,6 +8,10 @@
   height: 600px;
 }
 
+.body {
+  background-color: #ff8888;
+  height: 400px;
+
 .btn-wrapper {
   text-align: center;
   margin-right: -25px;
